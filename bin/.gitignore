@@ -1,9 +1,4 @@
-/dao/
-/entity/
-/impl/
-/mb/
-/control/
+/.DS_Store
+/META-INF/
+/br/
 /model/
-/src/
-/view/
-/vo/
